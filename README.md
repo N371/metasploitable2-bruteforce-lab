@@ -32,8 +32,6 @@ Na prática, acabou sendo um pouco mais do que isso. Pelo caminho usei o NFS com
 | IP do alvo | `192.168.0.64` |
 | Ferramentas | `nmap`, `medusa`, `hydra`, `enum4linux`, `smbclient`, `ftp`, `curl` |
 
-O desafio sugere rede host-only, mas usei Bridge por praticidade mesmo — pro que importa aqui (isolamento das duas VMs) dá na mesma: nenhuma delas fica exposta além da rede local do laboratório.
-
 ---
 
 ## Como organizei o trabalho
