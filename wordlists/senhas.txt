@@ -1,0 +1,9 @@
+mfsadmin
+senha123
+postgres
+user
+service
+toor
+123456
+passwrd
+admin

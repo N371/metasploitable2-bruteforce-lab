@@ -1,0 +1,4 @@
+postgres
+msfadmin
+123456
+password
